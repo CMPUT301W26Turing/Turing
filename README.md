@@ -1,1 +1,2 @@
-Turing
+groupname:Turing
+ccid:sam12
